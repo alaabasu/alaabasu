@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm [Alaa Albsuny]! 👋
 
-<!--
-**alaabasu/alaabasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer with expertise in **Angular** and **.NET**. I enjoy solving complex problems, building scalable web applications, and contributing to open-source projects. 
 
-Here are some ideas to get you started:
+I share knowledge and insights through [my blog](#) and engage with the tech community on [Twitter](#) and [LinkedIn](#). When I'm not coding, you'll find me exploring new technologies and creating tools to make developers' lives easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Technologies I Use
+- Angular | TypeScript | JavaScript
+- .NET | C# | ASP.NET Core
+- Git | GitHub | CI/CD
+
+Let's connect and build something awesome together! 🚀
